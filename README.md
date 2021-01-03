@@ -1,4 +1,4 @@
-# Introduction
+# Deep-Generative-Models Introduction
 
 Generative Adversarial Networks (GAN) and Variational Auto Encoders (VAE) are generative models
 that use unsupervised learning approach. GAN consists of a discriminator and a generator that can
